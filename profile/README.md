@@ -1,4 +1,4 @@
-![Banner](./brand/banner.png)
+![Banner](https://raw.githubusercontent.com/Very-Terrible-Code/.github/main/profile/brand/banner.png)
 
 # A group of programmers making terrible code
 
